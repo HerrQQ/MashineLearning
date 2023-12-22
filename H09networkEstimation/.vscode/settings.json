@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kaifengqu/Desktop/H06CodeinROSEnv/devel/lib/python3/dist-packages",
+        "/home/kaifengqu/Desktop/H01Coding/H04Rostest/catkin_workspace/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kaifengqu/Desktop/H06CodeinROSEnv/devel/lib/python3/dist-packages",
+        "/home/kaifengqu/Desktop/H01Coding/H04Rostest/catkin_workspace/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
