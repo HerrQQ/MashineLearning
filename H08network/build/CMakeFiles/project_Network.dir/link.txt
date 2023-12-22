@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/project_Network.dir/src/testMain.cpp.o  -o project_Network  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so 

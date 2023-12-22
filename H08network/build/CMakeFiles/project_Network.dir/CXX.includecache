@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/network.h
+iostream
+-
+vector
+-
+cmath
+-
+glog/logging.h
+../include/glog/logging.h
+
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H08network/src/testMain.cpp
+network.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H08network/src/network.h
+

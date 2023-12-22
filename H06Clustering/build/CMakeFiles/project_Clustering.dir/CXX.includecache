@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Clustering.h
+iostream
+-
+vector
+-
+cmath
+-
+
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H06Clustering/src/testMain.cpp
+Clustering.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H06Clustering/src/Clustering.h
+random
+-
+iostream
+-
+fstream
+-
+glog/logging.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H06Clustering/src/glog/logging.h
+

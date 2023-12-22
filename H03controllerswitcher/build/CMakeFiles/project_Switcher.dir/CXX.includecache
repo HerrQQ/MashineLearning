@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/para_switcher.h
+
+../include/structofswitcher.h
+vector
+-
+
+../include/switcher.h
+structofswitcher.h
+../include/structofswitcher.h
+para_switcher.h
+../include/para_switcher.h
+vector
+-
+map
+-
+glog/logging.h
+../include/glog/logging.h
+cmath
+-
+utility
+-
+
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H03controllerswitcher/src/testMain.cpp
+switcher.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H03controllerswitcher/src/switcher.h
+

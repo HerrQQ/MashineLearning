@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H08network/src/testMain.cpp
+PCA.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H08network/src/PCA.h
+random
+-
+iostream
+-
+fstream
+-
+glog/logging.h
+/home/kaifengqu/Desktop/H01Coding/H08WorkingDev/H08network/src/glog/logging.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/project_PCA.dir/src/testMain.cpp.o  -o project_PCA  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/project_Switcher.dir/src/switcher.cpp.o CMakeFiles/project_Switcher.dir/src/testMain.cpp.o  -o project_Switcher  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so 

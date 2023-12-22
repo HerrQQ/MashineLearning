@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/project_Clustering.dir/src/testMain.cpp.o  -o project_Clustering  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so 
